@@ -17,7 +17,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: #d2cd318c;
     font-family: var(--fonte-destaque);
 }
 
@@ -96,6 +96,9 @@ main h1 {
     font-weight: bold;
 }
 
+main img {
+    background-position: center center;
+}
 main h2 {
     font-family: var(--fonte-destaque);
     color: #3D5B28;
