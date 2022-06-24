@@ -97,7 +97,11 @@ main h1 {
 }
 
 main img {
-    background-position: center center;
+    min-width: 180px;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 main h2 {
     font-family: var(--fonte-destaque);
